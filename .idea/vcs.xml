@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/snipcart-grav-headless/user/plugins/error" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/snipcart-grav-headless/user/plugins/markdown-notices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/snipcart-grav-headless/user/plugins/problems" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/snipcart-grav-headless/user/themes/quark" vcs="Git" />
+  </component>
+</project>

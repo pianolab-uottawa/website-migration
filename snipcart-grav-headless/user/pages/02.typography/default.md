@@ -8,7 +8,7 @@ The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new defaul
 
 ### Headings
 
-# H1 Heading `40px`
+# H1 Heading `40px`  
 
 ## H2 Heading `32px`
 
@@ -27,7 +27,7 @@ The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new defaul
 <span class="h1">H1 Heading</span>
 ```
 
-### Paragraphs
+### Paragraphs2222
 
 Lorem ipsum dolor sit amet, consectetur [adipiscing elit. Praesent risus leo, dictum in vehicula sit amet](#), feugiat tempus tellus. Duis quis sodales risus. Etiam euismod ornare consequat.
 
@@ -118,7 +118,6 @@ Text<sub>Subscripted</sub> `<sub>`
 | Name                        | Genre                         | Release date         |
 | :-------------------------- | :---------------------------: | -------------------: |
 | The Shawshank Redemption    | Crime, Drama                  | 14 October 1994      |
-| The Godfather               | Crime, Drama                  | 24 March 1972        |
 | Schindler's List            | Biography, Drama, History     | 4 February 1994      |
 | Se7en                       | Crime, Drama, Mystery         | 22 September 1995    |
 
