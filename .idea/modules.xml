@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../migration-grav-gatsby-graphql/.idea/migration-grav-gatsby-graphql.iml" filepath="$PROJECT_DIR$/../migration-grav-gatsby-graphql/.idea/migration-grav-gatsby-graphql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/website-migration.iml" filepath="$PROJECT_DIR$/.idea/website-migration.iml" />
     </modules>
   </component>
 </project>
